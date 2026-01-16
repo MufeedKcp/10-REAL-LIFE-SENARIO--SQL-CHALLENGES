@@ -1,6 +1,6 @@
-# 10-REAL-LIFE-SENARIO--SQL-CHALLENGES
+# REAL-LIFE-SENARIO--SQL-CHALLENGES
 # SQL Challenges
-A collection of 10 SQL challenges solved as part of my journey to become solid intermediate in SQL.
+This repo includes the collection of real life senario based SQL challenges solved 
 
 ## Topics Covered
 * Joins mastery
